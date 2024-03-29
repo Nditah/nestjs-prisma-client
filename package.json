@@ -1,8 +1,8 @@
 {
-  "name": "zenka-api",
+  "name": "nestjs-prisma-client",
   "version": "0.0.1",
   "description": "NestJS Prisma Client Starter Project",
-  "author": "Marc Stammerjohann",
+  "author": "Nditah Sam <nditah@gmail.com>",
   "license": "MIT",
   "keywords": [
     "nestjs",
